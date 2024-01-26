@@ -2,9 +2,9 @@
  😁
 
  <div>
-   <a href="https://github.com/Pedrosdevs">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrosdevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrosdevs&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Pedros-devs">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedros-devs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedros-devs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,9 +14,6 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
+ <div> 
   <a href="https://www.linkedin.com/in/peelossi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
