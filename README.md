@@ -1,10 +1,13 @@
-## Bem-vindo(a) ao perfil do devPedro
+## Bem-vindo(a) ao perfil do Pedros-devs
+
  😁
 
  <div>
-   <a href="https://github.com/devPedro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPedro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Pedros-devs
+">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedros-devs
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedros-devs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
