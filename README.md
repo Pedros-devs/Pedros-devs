@@ -1,6 +1,4 @@
-## Bem-vindo(a) ao perfil do Pedros-devs
-
- 😁
+## Bem-vindo(a) ao perfil do Pedros-devs 😁
 
  <div>
    <a href="https://github.com/Pedros-devs
